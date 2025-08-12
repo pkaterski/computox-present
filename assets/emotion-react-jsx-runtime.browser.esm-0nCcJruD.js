@@ -1,0 +1,1 @@
+import{ah as t,j as n,ai as j,aj as x}from"./ketcher-react-xHOHKbM9.js";var m=n.Fragment,o=function(a,s,r){return t.call(s,"css")?n.jsx(j,x(a,s),r):n.jsx(a,s,r)},u=function(a,s,r){return t.call(s,"css")?n.jsxs(j,x(a,s),r):n.jsxs(a,s,r)};export{m as F,u as a,o as j};
